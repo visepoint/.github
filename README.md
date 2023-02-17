@@ -1,5 +1,5 @@
 <!-- Image banner here -->
-![Profile Banner](./content/banner-xl-slim.png)
+<img class="border-radius: 18px;" src="./content/banner-xl-slim.png" alt="Banner Image" />
 
 ---
 ### 📚 - `Who we are`:
